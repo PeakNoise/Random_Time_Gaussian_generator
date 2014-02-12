@@ -1,6 +1,6 @@
 /* File     : main.c
 * Author    : PeakNoise
-* Date      : 28.12.2013
+* Date      : 12.02.2014
 * Porpuse   : test RTG generator
 * Compilator: GCC
 */
