@@ -1,1 +1,5 @@
-hello
+This program allows to generate random time with a Gaussian distribution. There is an exemple in main.c how to use this program.
+
+First of all, you need to create a TIME variable and initialize it with InitializeTime() function.
+
+Then, you can generate a time with TimeGenerating() function.
